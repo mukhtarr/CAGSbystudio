@@ -1,0 +1,6 @@
+{
+  "name": "MYCAGS - College Academics Management",
+  "description": "Comprehensive academic management portal for colleges featuring role-based registration & authentication for Faculty, HOD, and Principal/Director, Students, Faculties, Curriculum & Subjects, Academic Years, Classes, Class Coordinators, Course Tracker, and complete relational database exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
